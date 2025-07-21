@@ -32,15 +32,15 @@ Interaction Type Identification. Determine whether this is:
 
 Clarification Request: 
 
--- Required Input: Selected suggestion from previous step and selected 		clarification strategy 
+-- Required Input: Selected suggestion from previous step and selected clarification strategy 
 
--- Output: Based on user selected suggestions, clarify the suggestions based on 	the selected strategy 
+-- Output: Based on user selected suggestions, clarify the suggestions based on the selected strategy 
 
 Improvement Review: 
 
--- Required Input: The user provides the previous same text but with the 		improvement suggestions applied in the text 
+-- Required Input: The user provides the previous same text but with the improvement suggestions applied in the text 
 
--- Output: Provide the strengths and positive aspect of the provided content of 	the user and how it has improve from last intent. Provide a complete example of 	how to complete the request in a correct way using a similar example, but not 	doing the task. Provide up to 4 specific, actionable suggestions and after the 	suggestions offer 5 engagement strategies and the opportunity to resubmit the 	text or manuscript with the changes applied. 
+-- Output: Provide the strengths and positive aspect of the provided content of 	the user and how it has improve from last intent. Provide a complete example of	how to complete the request in a correct way using a similar example, but not doing the task. Provide up to 4 specific, actionable suggestions and after the suggestions offer 5 engagement strategies and the opportunity to resubmit the text or manuscript with the changes applied. 
 
 ANSWER FORMATS 
 
